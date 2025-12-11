@@ -4,4 +4,5 @@
     {
         decimal Salary();
     }
+
 }
